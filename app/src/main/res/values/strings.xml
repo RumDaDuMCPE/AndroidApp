@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">Reality Check</string>
+
+    <string name="question_cochin">Kaloor is in Cochin.</string>
+    <string name="question_ocean">The Pacific is bigger than the Atlantic.</string>
+    <string name="question_africa">The source of the Nile river is in Egypt.</string>
+    <string name="question_founder">Elon R. Musk founded SpaceX.</string>
+    <string name="question_harvard">Harvard University is in Canada.</string>
+    <string name="question_mosquito">Female Anopheles Mosquitoes are responsible for spreading Malaria.</string>
+    <string name="question_elon">Elon Musks full name is Elongrated Muskarat.</string>
+    <string name="warning_text">Are you sure you want to cheat?</string>
+    <string name="tokens_left_text">Tokens left: %1d</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+
+    <string name="judgement_toast">Cheating ain\'t a good practice :/</string>
+    <string name="stupid_toast">LMAO. Can\'t get it right even when you cheat. -1 POINT!</string>
+    <string name="correct_toast">Correct! :)</string>
+    <string name="incorrect_toast">Incorrect! :(</string>
+</resources>
